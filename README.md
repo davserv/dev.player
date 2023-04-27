@@ -1,11 +1,11 @@
 # dev.player
 
 ```bash
-https://davserv.github.io/dev.player/devwork/css/dev.styles.css
+<link rel="stylesheet" href="https://davserv.github.io/dev.player/devwork/css/dev.styles.css" />
 ```
 ```bash
-https://davserv.github.io/dev.player/devwork/js/jquery.min.js
+<script src="https://davserv.github.io/dev.player/devwork/js/jquery.min.js"></script>
 ```
 ```bash
-https://davserv.github.io/dev.player/devwork/js/dev.player.js
+<script src="https://davserv.github.io/dev.player/devwork/js/dev.player.js"></script>
 ```
