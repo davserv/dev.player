@@ -1,4 +1,4 @@
-<img src="https://github.com/davserv/dev.player/blob/gh-pages/devwork/img/btn.png" min-width="150px" width="150px" align="right" alt="">
+<img src="https://github.com/davserv/dev.player/blob/gh-pages/devwork/img/btn.png" min-width="150px" height="150" width="150px" align="right" alt="">
 
 # DEV.PLAYER.
 
